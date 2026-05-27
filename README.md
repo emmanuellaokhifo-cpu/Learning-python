@@ -11,3 +11,5 @@ Compiled languages catch type errors during the compile step, before the program
 
 integer whole number positive or negative 
 float decimal numbers
+type(variable) to find out what data type a variable belongs to
+isinstance() used to find out the specific data type of the value oof the variable
