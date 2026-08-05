@@ -1,11 +1,11 @@
 # Learning-python
-Just for my notes while learning python 
+Just for my notes while learning python started with freecode camp switched to LabEx
 
-Topics covered:
+Topics covering:
 Variables and Data types
-Strings
 Numbers
-Boolean and conditionals 
+input()
+print()
 
  Still learning:
  Loops
