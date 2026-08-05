@@ -1,0 +1,4 @@
+print()
+input()
+using variable types like strings and integers
+when coding  string and variables cannot be side by side e.g "Hello"(name) this causes a syntax error in code , different ways to combine strings and variables are eiither and f-string print(f") , using commas , name,. using + e.g + name +.
