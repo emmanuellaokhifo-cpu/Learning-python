@@ -2,3 +2,16 @@ print()
 input()
 using variable types like strings and integers
 when coding  string and variables cannot be side by side e.g "Hello"(name) this causes a syntax error in code , different ways to combine strings and variables are eiither and f-string print(f") , using commas , name,. using + e.g + name +.
+
+13TH of August 2026.
+variables
+type()
+len
+.upper()
+.lower()
+booleans( true , false , and , or , not
+operators- *, ==, <
+int() - numeric types 
+float() - numeric types 
+str()
+bool()
