@@ -15,3 +15,8 @@ int() - numeric types
 float() - numeric types 
 str()
 bool()
+
+14th of auguat 2026 
+The replace() method replaces all occurrences of a substring with another substring:
+
+
