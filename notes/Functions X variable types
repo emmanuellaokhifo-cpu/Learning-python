@@ -24,3 +24,14 @@ conditional statement and loops
 break to break a while loop
 continute to continue a statemnt 
 
+20th august 2026
+Python functions and Modules
+Functions are defined using the def
+Functions can be used to encapsulate reusable code and perform specific tasks. It's the main building block of Python programs.
+Functions can also have default parameter values. 
+A tuple is a Python collection that stores multiple values together.
+
+Understanding function scope
+Creating and Using modules
+Importing specific functions from modules
+Creating a package
