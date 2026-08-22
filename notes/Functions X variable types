@@ -35,3 +35,8 @@ Understanding function scope
 Creating and Using modules
 Importing specific functions from modules
 Creating a package
+
+Parameter: placeholder in the function definition
+Argument: actual value supplied when calling the function
+
+argument—the actual value passed into the parameter
