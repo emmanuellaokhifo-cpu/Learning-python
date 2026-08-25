@@ -35,8 +35,50 @@ Understanding function scope
 Creating and Using modules
 Importing specific functions from modules
 Creating a package
-
 Parameter: placeholder in the function definition
 Argument: actual value supplied when calling the function
 
 argument—the actual value passed into the parameter
+
+25th of august 2026 
+Python data structures: lists, tuples, sets, and dictionaries. 
+
+Lists
+You can access list elements using their index. Remember, Python uses zero-based indexing
+Lists are mutable, meaning you can change their contents
+You can add items to a list using the append() method or insert items at a specific position using the insert() method
+To remove items, you can use the remove() method or the del statement
+Lists can contain items of different types, including other lists.
+
+Understanding Tuples
+Tuples are created using parentheses ().
+tuples, which are ordered, immutable sequences in Python.
+Tuples can contain items of different types:
+Tuple unpacking is a convenient way to assign multiple variables at once.
+
+Exploring Sets
+Sets are created using curly braces {} or the set() function. Note that the order of elements may vary when you print a set.
+You can add elements to a set using the add() method
+Sets support mathematical set operations like union, intersection, and difference.
+You can check if an element is in a set using the in keyword.
+
+Working with Dictionaries
+Dictionaries are created using curly braces {} with key-value pairs separated by colons :.
+Dictionaries have useful methods like keys(), values(), and items().
+You can use dictionary comprehension to create dictionaries concisely:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
