@@ -6,8 +6,5 @@ Variables and Data types
 Numbers
 input()
 print()
-
- Still learning:
  Loops
  Functions
- Projects 
