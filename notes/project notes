@@ -1,0 +1,2 @@
+Python packages are installed from terminal using the commmand prompt pip
+psutil - this is a bridge between your python programme and computer system information
